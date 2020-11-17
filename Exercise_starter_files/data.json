@@ -1,0 +1,2 @@
+{"result": ["no"]}
+2, "job": "technician", "marital": "divorced", "education": "university.degree", "default": "no", "housing": "yes", "loan": "no", "contact": "cellular", "month": "aug", "day_of_week": "tue", "duration": 141, "campaign": 2, "pdays": 999, "previous": 0, "poutcome": "nonexistent", "emp.var.rate": 1.4, "cons.price.idx": 93.444, "cons.conf.idx": -36.1, "euribor3m": 4.968, "nr.employed": 5228.1}]}

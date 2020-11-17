@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from azureml.core import Workspace
 from azureml.core.webservice import Webservice
 
