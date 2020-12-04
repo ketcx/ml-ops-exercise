@@ -39,15 +39,15 @@ After you have the Azure Machine Learning Extension, create a service principal 
 
 <p align="center">
   <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img002.png" width=600>
-  Registered Dataset
+  
 </p>
-
+<br />
+<p align="center">Experiment Completed</p>
 <p align="center">
-  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img003.png" width=600>
-  Experiment Completed
+  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img003.png" width=600>  
 </p>
-
+<br />
+<p align="center">Experiment Completed</p>
 <p align="center">
-  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img004.png" width=600>
-  Best model
+  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img004.png" width=600>  
 </p>
