@@ -19,7 +19,8 @@
 5. Swagger Documentation
 6. Consume model endpoints
 7. Create and publish a pipeline
-8. Documentation
+8. Screencast
+9. Future Works
 
 </p>
 
@@ -113,7 +114,7 @@ This step shows our work with:
 </p>
 <p align="center">
   <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img011.png" width=600>  
-</p>s
+</p>
 <p align="center">
   <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img012.png" width=600>  
 </p>
