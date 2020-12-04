@@ -138,3 +138,5 @@ This step shows our work with:
 ## 8. Screencast
 
 ## 9. Future Works
+
+<p>In step some we create a service principal to be able to authenticate in this way, however in our script we authenticate ourselves with the help of the config.json file that we download from Azure Machine Learning, in future work in addition to better encapsulating some elements we can use the service princial as authentication method for our scripts.</p>
