@@ -100,7 +100,8 @@ After you have the Azure Machine Learning Extension, create a service principal 
 
 ## 7. Create and publish a pipeline
 
-<p align="center">This step shows our work with:
+<p >
+This step shows our work with:
 
 - The pipeline section of Azure ML studio, showing that the pipeline has been created.
 - The pipelines section in Azure ML Studio, showing the Pipeline Endpoint.
