@@ -6,7 +6,7 @@
   <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/diagram.png" width=600>
 </p>
 
-## 1. Project Overview
+## Project Overview
 
 <p>In this project, we are going to continue working with the banking marketing dataset. We are going to use Azure to set up a cloud-based machine learning production model, deploy it, and consume it. You'll also create, publish, and consume a pipeline.</p>
 
@@ -21,4 +21,33 @@
 7. Create and publish a pipeline
 8. Documentation
 
+</p>
+
+## 1. Authentication
+
+<p>In this step, I install Azure Machine Learning Extension which allows you to interact with Azure Machine Learning Studio, which is part of the az command.
+
+After you have the Azure Machine Learning Extension, create a service principal account and then associate it with the specific workspace.</p>
+
+<p align="center">
+  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img001.png" width=600>
+</p>
+
+## 2. Authentication
+
+<p>In this step, I will create an experiment using automated machine learning and then configure a compute cluster and use that cluster to run the experiment.</p>
+
+<p align="center">
+  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img002.png" width=600>
+  Registered Dataset
+</p>
+
+<p align="center">
+  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img003.png" width=600>
+  Experiment Completed
+</p>
+
+<p align="center">
+  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img004.png" width=600>
+  Best model
 </p>
