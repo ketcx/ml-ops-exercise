@@ -136,9 +136,8 @@ This step shows our work with:
 </p>
 
 ## 8. Screencast
-<p align="center">
+  
 [![Screencast video](https://img.youtube.com/vi/q3jSMlE9Q0c/0.jpg)](https://www.youtube.com/watch?v=q3jSMlE9Q0c)
-</p>
 
 ## 9. Future Works
 
