@@ -111,20 +111,20 @@ After you have the Azure Machine Learning Extension, create a service principal 
 
 </p>
 <p align="center">
-  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img0011.png" width=600>  
-</p>
+  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img011.png" width=600>  
+</p>s
 <p align="center">
   <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img012.png" width=600>  
 </p>
 <p align="center">
-  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img0013.png" width=600>  
+  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img013.png" width=600>  
 </p>
 <p align="center">
   <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img014.png" width=600>  
 </p>
 
 <p align="center">
-  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img0015.png" width=600>  
+  <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img015.png" width=600>  
 </p>
 <p align="center">
   <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img016.png" width=600>  
@@ -133,4 +133,6 @@ After you have the Azure Machine Learning Extension, create a service principal 
   <img src="https://github.com/ketcx/ml-ops-exercise/blob/master/data/img017.png" width=600>  
 </p>
 
-## 8. Documentation
+## 8. Screencast
+
+## 9. Future Works
